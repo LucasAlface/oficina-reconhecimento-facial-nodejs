@@ -1,1 +1,5 @@
 # oficina-reconhecimento-facial-nodejs
+
+https://zwaptwgrdkpjcgskmwju.supabase.co
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp3YXB0d2dyZGtwamNnc2ttd2p1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY0MTEzNzMsImV4cCI6MjA5MTk4NzM3M30.29yFMj2DAIoWByPRjQTy_kFQM4Mj_TpgXQ11hJCjk7Y
